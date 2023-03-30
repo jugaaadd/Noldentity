@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Noldentity
+- 👋 Hi, I’m @Jugaad
 - 👀 I’m interested in Design & Development
 - 🌱 I’m currently learning Graphic Designing & Web Development
 - 💞️ I’m looking to collaborate on open source projects!
